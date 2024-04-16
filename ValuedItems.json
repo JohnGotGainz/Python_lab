@@ -1,0 +1,339 @@
+[
+    {
+        "name": "Assault rifle",
+        "type": "Weapon",
+        "damage": 7,
+        "rpm": 720,
+        "description": "An AR used for medium to long range."
+    },
+    {
+        "name": "Submachine gun",
+        "type": "Weapon",
+        "damage": 4,
+        "rpm": 1200,
+        "description": "A close range light weight weapon."
+    },
+    {
+        "name": "Pump shotgun",
+        "type": "Weapon",
+        "damage": 45,
+        "rpm": 120,
+        "description": "A high damage 12 gauge shotgun for close range."
+    },
+    {
+        "name": "Medkit",
+        "type": "Consumable",
+        "effect": "+100 health",
+        "description": "Restores 100 health points when consumed."
+    },
+    {
+        "name": "Armor potion",
+        "type": "Consumable",
+        "effect": "+50 armor",
+        "description": "Adds a shield around player giving 50 armor that reduces incoming damage."
+    },
+    {
+        "name": "Stamina potion",
+        "type": "Consumable",
+        "effect": "+20 stamina",
+        "description": "Player is given +20 stamina."
+    },
+    {
+        "name": "Helmet",
+        "type": "Armor",
+        "armor_points": 5,
+        "description": "Protective armor that reduces incoming damage to the head."
+    },
+    {
+        "name": "Chest armor",
+        "type": "Armor",
+        "armor_points": 10,
+        "description": "Protective armor that reduces incoming damage to the body."
+    },
+    {
+        "name": "Leg armor",
+        "type": "Armor",
+        "armor_points": 7,
+        "description": "Protective armor that reduces incoming damage to the legs."
+    },
+    {
+        "name": "Gauntlets",
+        "type": "Armor",
+        "armor_points": 5,
+        "description": "Protective armor that reduces incoming damage to the hands."
+    },
+    {
+        "name": "Boots",
+        "type": "Armor",
+        "armor_points": 3,
+        "description": "Protective armor that increases your overall armor."
+    },
+    {
+        "name": "Revolver",
+        "type": "Weapon",
+        "damage": 10,
+        "rpm": 300,
+        "description": "A powerful handgun with high damage."
+    },
+    {
+        "name": "Sniper rifle",
+        "type": "Weapon",
+        "damage": 50,
+        "rpm": 60,
+        "description": "A long-range rifle used for precision shooting."
+    },
+    {
+        "name": "Grenade launcher",
+        "type": "Weapon",
+        "damage": 80,
+        "rpm": 40,
+        "description": "Launches explosive grenades for area damage."
+    },
+    {
+        "name": "Bandage",
+        "type": "Consumable",
+        "effect": "+50 health",
+        "description": "Restores 50 health points when consumed."
+    },
+    {
+        "name": "Shield potion",
+        "type": "Consumable",
+        "effect": "+30 armor",
+        "description": "Gives a temporary shield of 30 armor."
+    },
+    {
+        "name": "Energy drink",
+        "type": "Consumable",
+        "effect": "+10 stamina",
+        "description": "Boosts player's stamina by 10 points."
+    },
+    {
+        "name": "Shield generator",
+        "type": "Consumable",
+        "effect": "+60 armor",
+        "description": "Generates a powerful shield for extra protection."
+    },
+    {
+        "name": "Steel helmet",
+        "type": "Armor",
+        "armor_points": 8,
+        "description": "A heavy-duty helmet providing strong head protection."
+    },
+    {
+        "name": "Titanium chestplate",
+        "type": "Armor",
+        "armor_points": 15,
+        "description": "A durable chestplate offering maximum body armor."
+    },
+    {
+        "name": "Reinforced leggings",
+        "type": "Armor",
+        "armor_points": 12,
+        "description": "Sturdy leggings providing superior leg protection."
+    },
+    {
+        "name": "Iron gauntlets",
+        "type": "Armor",
+        "armor_points": 8,
+        "description": "Heavy gauntlets offering enhanced hand defense."
+    },
+    {
+        "name": "Steel-toed boots",
+        "type": "Armor",
+        "armor_points": 5,
+        "description": "Boots with reinforced steel toes for increased foot protection."
+    },
+    {
+        "name": "Energy sword",
+        "type": "Weapon",
+        "damage": 60,
+        "rpm": 100,
+        "description": "A powerful melee weapon with energy blade."
+    },
+    {
+        "name": "Flamethrower",
+        "type": "Weapon",
+        "damage": 40,
+        "rpm": 200,
+        "description": "A weapon that projects a stream of fire for close-range attacks."
+    },
+    {
+        "name": "Poison dart gun",
+        "type": "Weapon",
+        "damage": 20,
+        "rpm": 500,
+        "description": "Fires darts infused with toxic poison for gradual damage."
+    },
+    {
+        "name": "Adrenaline shot",
+        "type": "Consumable",
+        "effect": "+40 health",
+        "description": "Injectable adrenaline boost that restores health instantly."
+    },
+    {
+        "name": "Invisibility cloak",
+        "type": "Consumable",
+        "effect": "Invisibility for 1 turn",
+        "description": "Grants temporary invisibility to the player for stealth tactics allowing zero damage to be taken."
+    },
+    {
+        "name": "Elixir of strength",
+        "type": "Consumable",
+        "effect": "+20% damage for one turn",
+        "description": "Enhances player's strength, increasing damage output temporarily."
+    },
+    {
+        "name": "Force field emitter",
+        "type": "Consumable",
+        "effect": "+80 armor",
+        "description": "Deploys a force field around the player, providing substantial armor protection."
+    },
+    {
+        "name": "Nano helmet",
+        "type": "Armor",
+        "armor_points": 10,
+        "description": "Helmet equipped with nanotechnology for advanced defensive capabilities."
+    },
+    {
+        "name": "Carbon fiber chestplate",
+        "type": "Armor",
+        "armor_points": 20,
+        "description": "Chestplate made from carbon fiber, offering unparalleled protection."
+    },
+    {
+        "name": "Shock-absorbing leggings",
+        "type": "Armor",
+        "armor_points": 15,
+        "description": "Leggings designed to absorb impact and reduce damage from falls."
+    },
+    {
+        "name": "Titanium gauntlets",
+        "type": "Armor",
+        "armor_points": 10,
+        "description": "Gauntlets crafted from titanium, providing superior hand defense."
+    },
+    {
+        "name": "Stealth boots",
+        "type": "Armor",
+        "armor_points": 8,
+        "description": "Boots engineered for silent movement and reduced detection."
+    },
+    {
+        "name": "Plasma rifle",
+        "type": "Weapon",
+        "damage": 70,
+        "rpm": 400,
+        "description": "Fires high-energy plasma bolts for devastating attacks."
+    },
+    {
+        "name": "EMP grenade",
+        "type": "Weapon",
+        "damage": 0,
+        "rpm": 5,
+        "description": "Throws an electromagnetic pulse grenade that disables enemy electronics."
+    },
+    {
+        "name": "Healing potion",
+        "type": "Consumable",
+        "effect": "+75 health",
+        "description": "A potent potion that restores a significant amount of health."
+    },
+    {
+        "name": "Evasion serum",
+        "type": "Consumable",
+        "effect": "Dodge enemy attacks for 1 turn",
+        "description": "Administers a serum that enhances reflexes, allowing the player to dodge attacks."
+    },
+    {
+        "name": "Rage potion",
+        "type": "Consumable",
+        "effect": "+50% damage for 1 turn",
+        "description": "Induces a state of heightened aggression, increasing damage output."
+    },
+    {
+        "name": "Force field projector",
+        "type": "Consumable",
+        "effect": "+100 armor",
+        "description": "Deploys a portable force field generator, providing maximum armor protection."
+    },
+    {
+        "name": "Advanced visor",
+        "type": "Armor",
+        "armor_points": 12,
+        "description": "Visor with augmented reality display, enhancing situational awareness."
+    },
+    {
+        "name": "Reactive body armor",
+        "type": "Armor",
+        "armor_points": 25,
+        "description": "Armor plates that react to incoming threats, offering dynamic protection."
+    },
+    {
+        "name": "Nanofiber leggings",
+        "type": "Armor",
+        "armor_points": 18,
+        "description": "Leggings woven with nanofiber technology for exceptional durability."
+    },
+    {
+        "name": "Vibranium gauntlets",
+        "type": "Armor",
+        "armor_points": 15,
+        "description": "Gauntlets made from vibranium, capable of absorbing and dissipating kinetic energy."
+    },
+    {
+        "name": "Stealth boots MK II",
+        "type": "Armor",
+        "armor_points": 10,
+        "description": "Upgraded stealth boots with improved stealth capabilities."
+    },
+    {
+        "name": "Plasma cannon",
+        "type": "Weapon",
+        "damage": 100,
+        "rpm": 200,
+        "description": "A heavy-duty cannon that fires powerful plasma blasts."
+    },
+    {
+        "name": "Smoke grenade",
+        "type": "Weapon",
+        "damage": 0,
+        "rpm": 5,
+        "description": "Emits a thick cloud of smoke, obscuring vision and providing cover player has a chance of missing that round."
+    },
+    {
+        "name": "Regeneration potion",
+        "type": "Consumable",
+        "effect": "+40 health for 3 rounds",
+        "description": "A potion that triggers rapid regeneration, healing over time."
+    },
+    {
+        "name": "Holographic decoy",
+        "type": "Consumable",
+        "effect": "Creates a holographic decoy to distract enemies",
+        "description": "Deploys a holographic decoy to confuse and divert enemy attention."
+    },
+    {
+        "name": "Berserker serum",
+        "type": "Consumable",
+        "effect": "+90% damage for 1 round",
+        "description": "Induces a berserk state, increasing damage output to maximum levels."
+    },
+    {
+        "name": "Energy barrier",
+        "type": "Consumable",
+        "effect": "+150 armor for 1 round",
+        "description": "Projects an energy barrier around the player, providing superior armor protection."
+    },
+    {
+        "name": "Advanced exoskeleton",
+        "type": "Armor",
+        "armor_points": 20,
+        "description": "Powered exoskeleton that enhances strength and mobility, while providing armor."
+    },
+    {
+        "name": "Energy shield",
+        "type": "Armor",
+        "armor_points": 30,
+        "description": "Generates a powerful energy shield that absorbs incoming damage."
+    }
+]
